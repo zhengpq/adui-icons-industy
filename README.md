@@ -1,2 +1,2 @@
 # adui-icons-industy
-adui 行业标签构建和发布项目
+adui 行业图标构建和发布项目
